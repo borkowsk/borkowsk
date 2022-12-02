@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @borkowsk, scieintific programmer with 35 years of practice.
+- 👋 Hi, I’m @borkowsk, scientific programmer with about 35 years of practice.
 - 👀 I’m interested in evolution and social processes
 - 🌱 I’m currently learning DOXYGEN 
-- 💞️ I’m looking to collaborate on Processing2C project.
+- 💞️ I’m looking to collaborate on _Processing2C_ and _worklog_ projects.
 - 📫 How to reach me: "mail to gmail, where I'm 'wborkowsk' 🦖" 
 
 <!---
